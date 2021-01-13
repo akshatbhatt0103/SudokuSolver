@@ -10,6 +10,8 @@ We will use the following functions:
 - ***printSudoku9x9***: to print the sudoku.
 
 # Output:
- - ![INPUT:](https://github.com/akshatbhatt0103/SudokuSolver/blob/main/input.PNG)
- - ![OUTPUT:](https://github.com/akshatbhatt0103/SudokuSolver/blob/main/output.PNG)
+  - Input-
+  ![INPUT:](https://github.com/akshatbhatt0103/SudokuSolver/blob/main/input.PNG)
+  - Output-
+  ![OUTPUT:](https://github.com/akshatbhatt0103/SudokuSolver/blob/main/output.PNG)
   
